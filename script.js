@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+ 
 // Canvas
 const canvas = document.querySelector('canvas.webgl')
 
@@ -193,3 +198,6 @@ const tick = () =>
 }
 
 init();
+    </script>
+  </body>
+</html>
